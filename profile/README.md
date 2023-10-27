@@ -21,3 +21,4 @@ This also allows for the use of plugins. So have fun!
 ### Server-Plugins
 - [FileLoggerPlugin](https://github.com/AdammantiumMultiplayer/FileLoggerPlugin)
 - [AutoShutdownPlugin](https://github.com/AdammantiumMultiplayer/AutoShutdownPlugin)
+- [Playercount Display](https://github.com/AdammantiumMultiplayer/AMP-Playercount)

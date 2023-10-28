@@ -22,3 +22,4 @@ This also allows for the use of plugins. So have fun!
 - [FileLoggerPlugin](https://github.com/AdammantiumMultiplayer/FileLoggerPlugin)
 - [AutoShutdownPlugin](https://github.com/AdammantiumMultiplayer/AutoShutdownPlugin)
 - [Playercount Display](https://github.com/AdammantiumMultiplayer/AMP-Playercount)
+- [Hide and Seek](https://github.com/AdammantiumMultiplayer/AMP-Hide-and-Seek)

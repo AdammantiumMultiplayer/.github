@@ -1,8 +1,6 @@
 # AMP - Adammantium Multiplayer Mod
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/gluten-free.svg)](https://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/code-sucks-it-works.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 ---------
 Adammantium Multiplayer Mod is a simple Multiplayer Mod for Blade &amp; Sorcery U12.
 
@@ -18,8 +16,11 @@ This bot is what i use to make it possible to host a bot by using a discord comm
 ## [Server Code](https://github.com/AdammantiumMultiplayer/Server)
 Dedicated server that allows a server to run without the game itself. Perfect for a custom server.
 This also allows for the use of plugins. So have fun!
-### Server-Plugins
+### Server-Plugins by us
 - [FileLoggerPlugin](https://github.com/AdammantiumMultiplayer/FileLoggerPlugin)
 - [AutoShutdownPlugin](https://github.com/AdammantiumMultiplayer/AutoShutdownPlugin)
 - [Playercount Display](https://github.com/AdammantiumMultiplayer/AMP-Playercount)
 - [Hide and Seek](https://github.com/AdammantiumMultiplayer/AMP-Hide-and-Seek)
+
+### Server-Plugins by the community
+- [Murder Mystery](https://github.com/LJPCODESTUDIO/MurderMystery)
